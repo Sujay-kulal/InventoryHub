@@ -1,0 +1,15 @@
+.confirm-dialog p {
+  margin-bottom: 0.5rem;
+}
+
+.warning-text {
+  color: var(--danger-color);
+  font-size: 0.875rem;
+  margin-bottom: 1.5rem;
+}
+
+.confirm-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 1rem;
+}
